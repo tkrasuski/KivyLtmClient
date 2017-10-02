@@ -7,7 +7,7 @@ url = "https://ltm-admin.fundacja-medyczna.pl/P1"
 user = "tomek"
 
 # password (plain text)
-passwd = "qazwsx"
+passwd = "password" # put your password instead
 
 # hashing
 digest=hashlib.md5()
