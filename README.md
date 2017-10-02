@@ -1,5 +1,5 @@
 # KivyLtmClient
-## LTM webservices for Liftingometr application
+## LTM webservices client for Liftingometr application
 
 The LtmClient is tool for diagnose LTM webservices and shall not be used on any production instance of LTM.
 
